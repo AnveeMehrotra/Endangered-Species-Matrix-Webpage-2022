@@ -1,0 +1,67 @@
+#para1{
+    font-family: 'Oswald', sans-serif; 
+}
+
+.imgs{
+    margin-right:10px;
+    height:250px;
+    width:300px;
+}
+.reasons{
+font-family: 'Oswald', sans-serif;
+font-family: 'Pushster', cursive;
+}
+
+.poem{
+font-family: 'Oswald', sans-serif;
+
+}
+
+.facts{
+font-family: 'Mochiy Pop P One', sans-serif;
+}
+
+.paras_of_fact{
+    font-family: 'Dongle', sans-serif;
+}
+
+#p1{
+    font-family: 'Rowdies', cursive;
+    font-size: 16px;
+}
+#body{
+    margin-left:5px;
+    margin-right:5px;
+}
+
+#fun_facts{
+    height:400px;
+    width:400px;
+}
+
+
+
+
+.container
+{
+    text-align: center;
+}
+#myCarousel img{
+    height:300px;
+    margin-top:35px;
+}
+.carousel-inner p{
+    margin-bottom:15px;
+    margin-top:15px;
+    color:white;
+    font-size:20px;
+}
+#poster{
+    height:460px;
+    width:510px;
+}
+
+#screen1{
+     font-family: 'Merriweather', serif;
+}
+
